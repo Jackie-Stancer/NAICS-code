@@ -13,8 +13,6 @@ The current release includes the main cryptographic and steganographic modules u
 - embedding and extraction
 - main supporting Matlab procedures for the core workflow
 
-## Not included in the current release
-
 The following components are not included in the current repository:
 
 - airport localization module
